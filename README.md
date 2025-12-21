@@ -1,5 +1,3 @@
-﻿# doomscope
-
 # DoomScope
 
 ## Overview
@@ -207,3 +205,4 @@ Regular expressions, patterns, and detection rules are stored in separate files,
 
 DoomScope is intended for authorized security testing and educational purposes only.  
 Unauthorized use against systems you do not own or have permission to test is strictly prohibited.
+
